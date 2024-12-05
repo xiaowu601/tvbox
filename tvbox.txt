@@ -1,40 +1,39 @@
 { "urls": [
-    { "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json", "name": "小橙子" },
-    
-    { "url": "https://play.iptv365.org/饭太硬/api.json", "name": "饭太硬" },
+   
+    { "url": "https://xiaowu601.github.io/tvbox/饭太硬/api.json", "name": "饭太硬" },
 
-    { "url": "https://play.iptv365.org/小米/api.json", "name": "小米" },
+    { "url": "https://xiaowu601.github.io/tvbox/小米/api.json", "name": "小米" },
 
-    { "url": "https://play.iptv365.org/肥猫/api.json", "name": "肥猫" },
+    { "url": "https://xiaowu601.github.io/tvbox/肥猫/api.json", "name": "肥猫" },
 
-    { "url": "https://play.iptv365.org/菜妮丝/api.json", "name": "菜妮丝" },
+    { "url": "https://xiaowu601.github.io/tvbox/菜妮丝/api.json", "name": "菜妮丝" },
 
-    { "url": "https://play.iptv365.org/王二小/api.json", "name": "王二小" },
+    { "url": "https://xiaowu601.github.io/tvbox/王二小/api.json", "name": "王二小" },
 
-    { "url": "https://play.iptv365.org/摸鱼儿/api.json", "name": "摸鱼儿" },
+    { "url": "https://xiaowu601.github.io/tvbox/摸鱼儿/api.json", "name": "摸鱼儿" },
 
-    { "url": "https://play.iptv365.org/PG/api.json", "name": "PG" },
+    { "url": "https://xiaowu601.github.io/tvbox/PG/api.json", "name": "PG" },
 
-    { "url": "https://play.iptv365.org/潇洒/api.json", "name": "潇洒" },
+    { "url": "https://xiaowu601.github.io/tvbox/潇洒/api.json", "name": "潇洒" },
 
-    { "url": "https://play.iptv365.org/天天开心/api.json", "name": "天天开心" },
+    { "url": "https://xiaowu601.github.io/tvbox/天天开心/api.json", "name": "天天开心" },
 
-    { "url": "https://play.iptv365.org/香雅情/api.json", "name": "香雅情" },
-    { "url": "https://play.iptv365.org/南风/api.json", "name": "南风" },
+    { "url": "https://xiaowu601.github.io/tvbox/香雅情/api.json", "name": "香雅情" },
+    { "url": "https://xiaowu601.github.io/tvbox/南风/api.json", "name": "南风" },
 
-    { "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零" },
+    { "url": "https://xiaowu601.github.io/tvbox/骚零/api.json", "name": "骚零" },
 
-    { "url": "https://play.iptv365.org/白嫖/api.json", "name": "白嫖" },
+    { "url": "https://xiaowu601.github.io/tvbox/白嫖/api.json", "name": "白嫖" },
 
-    { "url": "https://play.iptv365.org/OK/api.json", "name": "OK" },
+    { "url": "https://xiaowu601.github.io/tvbox/OK/api.json", "name": "OK" },
 
-    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" },
+    { "url": "https://xiaowu601.github.io/tvbox/戏曲音乐/api.json", "name": "戏曲音乐" },
 
-    { "url": "https://play.iptv365.org/短剧频道/api.json", "name": "短剧频道" },
+    { "url": "https://xiaowu601.github.io/tvbox/短剧频道/api.json", "name": "短剧频道" },
 
-    { "url": "https://play.iptv365.org/少儿频道/api.json", "name": "少儿频道" },
+    { "url": "https://xiaowu601.github.io/tvbox/少儿频道/api.json", "name": "少儿频道" },
 
-    { "url": "https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
+    { "url": "https://xiaowu601.github.io/tvbox/动漫频道/api.json", "name": "动漫频道" },
 
-    { "url": "https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" }
+    { "url": "https://xiaowu601.github.io/tvbox/iptv365/api.json", "name": "iptv365直播" }
 ]}
